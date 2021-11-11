@@ -19,7 +19,7 @@ body
 {
 	display: inline-block;
 	margin-left: 3px;
-	color: tomato;
+	color: rgb(35, 211, 58);
 	font-weight: bold;
 }
 #word
@@ -45,7 +45,7 @@ h1{
 }
 h3{
 	font-family: 'Lora', serif;
-	color: teal;
+	color: yellowgreen;
 }
 label{
 	font-family: 'Yellowtail', cursive;
